@@ -10,4 +10,4 @@
 
 
 ## Task 2
-Interview an Application Designer (UI/UX)
+[Wawancara](task-2/README.md)
