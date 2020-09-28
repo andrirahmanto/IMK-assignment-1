@@ -1,7 +1,5 @@
 # Wawancara
 
-**Pertanyaan**
-
 **Boleh kak perkenalkan diri kakak terlebih dahulu dari nama, backgroud pendidikan, dan background karir**
 > Iwan Afandhi Yusup, D3 Informatika, 2010 - Now Animator -> UI Designer -> FE Developer -> FS Developer -> CTO
 
