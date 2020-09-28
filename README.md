@@ -6,7 +6,7 @@
 3. Resa Fajar Sukma
 
 ## Task 1
-Find an incident about design error (past record)
+[American Airlines Penerbangan 587](task-1/README.md)
 
 
 ## Task 2
