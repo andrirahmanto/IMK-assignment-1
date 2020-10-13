@@ -1,4 +1,4 @@
-# IMK-assignment-1
+# IMK-assignment-2
 
 ## Team C
 1. Andri Rahmanto
@@ -6,8 +6,6 @@
 3. Resa Fajar Sukma
 
 ## Task 1
-[American Airlines Penerbangan 587](task-1/README.md)
 
 
 ## Task 2
-[Wawancara](task-2/README.md)
