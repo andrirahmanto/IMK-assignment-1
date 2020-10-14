@@ -19,6 +19,12 @@
 bahwa tampilan seharusnya tetap berada dalam aplikasi.
 
 ## For the accepted designs, there are explanation of which material design philosophy per components
+1. Card
+Bayangan pada setiap card.
+Ini merupakan penerapan dari prinsip material yang terinsipirasi dari fisik dunia dan teksturnya, dimana card ini menghasilkan bayangan.
+2. Typography
+Penggunaan Font yang tebal.
+Ini merupakan penerapan dari prinsip material yang kontennya dicetak tebal.
 
 ## Tools yang digunakan
 >Figma
