@@ -1,6 +1,6 @@
 # Task 2
 ## Flick adalah 
->Flick adalah sebuah aplikasi lifestyle dengan layanan-layanan yang memudahkan kita untuk memenuhi kebutuhan sehari-hari.
+>Flickapp adalah layanan E-Money untuk proses pembayaran , pembelian PPOB ( Pulsa / Data , Listrik prabayar & pascabayar, Internet Provider , Pembayaran Leasing kendaraan , Asuransi , BPJS ) , dan Rekening bersama untuk belanja Online secara aman yang di selanggarakan oleh PT. KREIGAN SENTRAL TEKNOLOGI.
 
 ## Day 1 Report (6 Oktober 2020)
 >[IMK Day 1](https://youtu.be/v1pScGoJL4E)
