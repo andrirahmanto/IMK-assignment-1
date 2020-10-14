@@ -7,7 +7,14 @@
 
 ## Day 2 Report(12 Oktober 2020)
 
-**Design Asli**
+## Design Asli
+![sebelum](design_raw/Tampilansebelum.png)
+
+## Design Leffi
+![sebelum](design_raw/Tampilansebelum.png)
+
+## Design Andri (Selected)
+![sebelum](design_raw/Tampilansebelum.png)
 
 ## Day 3 Report(13 Oktober 2020)
 
