@@ -30,7 +30,7 @@ Hal-hal diatas adalah fitur-fitur utama dari Flick App atau mungkin ada beberapa
 
 ## Activity Diagrams
 
-![use case Top Up](Top%20Up.jpg)
+![use case Top Up](Top%20up.jpg)
 
 ![use case Shop](Shop.jpg)
 
