@@ -26,14 +26,14 @@ Sebenarnya banyak sekali business use case yang ada pada aplikasi ini, tetapi ka
 - Bill
 - Pay
 
-Hal-hal diatas adalah fitur-fitur utama dari Flick App atau mungkin ada beberapa fitur lainnnya namun tidak terpantau oleh kelompok kami.
+Hal-hal diatas adalah use case-use case utama dari Flick App atau mungkin ada beberapa use case lainnnya namun tidak terpantau oleh kelompok kami.
 
 ## Activity Diagrams
 
-![use case Top Up](Top%20up.jpg)
+![Activity Diagrams Top Up](Top%20up.jpg)
 
-![use case Shop](Shop.jpg)
+![Activity Diagrams Shop](Shop.jpg)
 
-![use case Bill](Bill.jpg)
+![Activity Diagrams Bill](Bill.jpg)
 
-![use case Pay](Pay.jpg)
+![Activity Diagrams Pay](Pay.jpg)
