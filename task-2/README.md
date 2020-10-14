@@ -17,7 +17,7 @@
 ![leffi](design_leffi/keseluruhanleffi.jpeg)
 
 ## Day 3 Report(13 Oktober 2020)
-
+>[IMK - Day 3](https://youtu.be/MW0XDeTnOLY)
 
 ## Day 4 Report(14 Oktober 2020)
 >[IMK - Day 4](https://youtu.be/1lK126OtSyA)
@@ -35,6 +35,9 @@ Penggunaan Font yang tebal.
 Ini merupakan penerapan dari prinsip material yang kontennya dicetak tebal.
 
 ## Subtitle
+1. [sub day 1]
+2.
+3.
 
 ## Tools yang digunakan
 >Figma
