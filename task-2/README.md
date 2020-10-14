@@ -1,7 +1,8 @@
-#Day 1 Report (6 Oktober 2020)
+# Day 1 Report (6 Oktober 2020)
 >ISI VIDEO
 
-#Day 2 Report(12 Oktober 2020)
+# Day 2 Report(12 Oktober 2020)
+
 **Design Asli
 
 
