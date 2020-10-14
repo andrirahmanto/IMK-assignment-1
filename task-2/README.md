@@ -35,9 +35,9 @@ Penggunaan Font yang tebal.
 Ini merupakan penerapan dari prinsip material yang kontennya dicetak tebal.
 
 ## Subtitle
-1. [sub day 1]
-2.
-3.
+1. [sub day 1](sub-day1)
+2. [sub day 3](sub-day3)
+3. [sub day 4](sub-day4)
 
 ## Tools yang digunakan
 >Figma
