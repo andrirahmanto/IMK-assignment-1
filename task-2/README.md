@@ -1,3 +1,7 @@
+# Flick.id
+**Aplikasi yang kami pilih adalah flick**
+>Flick adalah sebuah aplikasi lifestyle dengan layanan-layanan yang memudahkan kita untuk memenuhi kebutuhan sehari-hari.
+
 # Day 1 Report (6 Oktober 2020)
 >ISI VIDEO
 
@@ -5,12 +9,15 @@
 
 **Design Asli**
 
+# Day 3 Report(13 Oktober 2020)
 
+# Day 4 Report(14 Oktober 2020)
 
+**Business process expansion to achieve better experience key features**
+>Pada halaman Fitur keren dari kami seharusnya Tampilan tidak masuk kehalaman website karena akan membingungkan user. kami menyarankan 
+bahwa tampilan seharusnya tetap berada dalam aplikasi.
 
-# Wawancara
+**For the accepted designs, there are explanation of which material design philosophy per components.**
 
-**Boleh kak perkenalkan diri kakak terlebih dahulu dari nama, backgroud pendidikan, dan background karir**
-> Iwan Afandhi Yusup, D3 Informatika, 2010 - Now Animator -> UI Designer -> FE Developer -> FS Developer -> CTO
-
-
+# Tools yang digunakan
+>Figma
