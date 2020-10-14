@@ -1,5 +1,5 @@
-# Flick.id
-**Aplikasi yang kami pilih adalah flick**
+# Task 2
+## Flick adalah 
 >Flick adalah sebuah aplikasi lifestyle dengan layanan-layanan yang memudahkan kita untuk memenuhi kebutuhan sehari-hari.
 
 ## Day 1 Report (6 Oktober 2020)
