@@ -10,14 +10,14 @@
 ## Design Asli
 ![sebelum](design_raw/Tampilansebelum.png)
 
-## Design Leffi
-![sebelum](design_raw/Tampilansebelum.png)
-
 ## Design Andri (Selected)
 ![andri](design_andri/keseluruhanandri.png)
 
-## Day 3 Report(13 Oktober 2020)
+## Design Leffi
 ![leffi](design_leffi/keseluruhanleffi.jpeg)
+
+## Day 3 Report(13 Oktober 2020)
+
 
 ## Day 4 Report(14 Oktober 2020)
 >[IMK - Day 4](https://youtu.be/1lK126OtSyA)
