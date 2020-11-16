@@ -5,8 +5,12 @@
 2. Khulaifi Alkatsiri
 3. Resa Fajar Sukma
 
-## Task 1
-[American Airlines Penerbangan 587](task-1/README.md)
+## Assignment 3
+Webisite : -
+Tipe User : Fixed
+Client : hashemi rafsanjani
+Pekerjaan : Mahasiswa
+alamat : jl. kalisari
 
 
 ## Task 2
