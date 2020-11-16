@@ -17,5 +17,28 @@ Pekerjaan : Mahasiswa
 alamat : jl. kalisari
 
 
-## Task 2
-[Wawancara](task-2/README.md)
+## 1st phase requirement gathering
+proof : 
+
+## Mini Report
+Berdasarkan wawancara yang telah berlangsung kami mendapat beberapa permintaan dari client antara lain:
+
+- Katalog
+
+User/pembeli dapat melihat barang yang dijual
+
+- Login
+
+User harus login terlebih dahulu sebelum checkout pesanan/melanjutkan pembayaran
+
+- Status Pesanan
+
+user dapat melihat status pemesanannya apakah pemesanan sudah dikonfirmasi,dikirim atau lain sebagainya.
+
+- Manajemen Pesanan
+
+admin dapat mengecek dan mengubah status pemesanan
+
+- Manajemen Barang
+
+admin dapat menambah,menghapus dan mengedit barang
